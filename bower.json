@@ -1,0 +1,19 @@
+{
+  "name": "countries",
+  "version": "0.0.1",
+  "homepage": "https://github.com/vramdhanie/angular-countries",
+  "authors": [
+    "Vincent Ramdhanie <vramdhanie@gmail.com>"
+  ],
+  "description": "Countries and Capitals",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
